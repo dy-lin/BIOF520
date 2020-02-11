@@ -1,4 +1,4 @@
-# BIOF520
+# BIOF520: Problem-Based Learning (PBL) in Bioinformatics
 
 ## Table of Contents
 1. [Syllabus](Syllabus.pdf)
