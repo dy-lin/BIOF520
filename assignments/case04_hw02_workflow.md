@@ -6,9 +6,9 @@
 1. Search [Genbank](http://www.ncbi.nlm.nih.gov/nuccore)
     - [Query](case04_hw02_genbank.md): 
       ```
-      (("Zika virus"[Organism] OR zika virus[All Fields]) AND envelope[All Fields]) AND ("1"[SLEN] : "1000"[SLEN])
+      (("Zika virus"[Organism] OR Zika virus[All Fields]) AND envelope[All Fields]) AND "Zika virus"[porgn] AND ("1"[SLEN] : "1000"[SLEN])
       ```
-    - Results: 108 sequences in [`case04_hw02_genbank.fa`](case04_hw02_genbank.fa)
+    - Results: 107 sequences in [`case04_hw02_genbank.fa`](case04_hw02_genbank.fa)
 1. Multiple sequence alignment with [MUSCLE](http://www.ebi.ac.uk/Tools/msa/muscle/)
     - Query: [`case04_hw02_genbank.fa`](case04_hw02_genbank.fa)
     - Results: [`case04_hw02_muscle.fa`](case04_hw02_muscle.fa)
