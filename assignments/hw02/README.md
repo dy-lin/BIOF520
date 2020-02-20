@@ -1,5 +1,7 @@
 # Workflow
 
+Instructions for this assignment can be found [here](case04_hw02_instructions.pdf).
+
 1. Run [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi)
     - Query: [`case04_hw02_query.fa`](case04_hw02_query.fa)
     - Results: [`case04_hw02_blast.fa`](case04_hw02_blast.fa)
