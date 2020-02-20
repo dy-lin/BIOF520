@@ -21,7 +21,7 @@ Instructions for this assignment can be found [here](case04_hw02_instructions.pd
 1. Build a phylogenetic tree using [Simple Phylogeny](https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/)
     - Query: [`case04_hw02_muscle.fa`](case04_hw02_muscle.fa)
     - Results: [`case04_hw02_tree.nwk`](case04_hw02_tree.nwk)
-1. Visualize the Newick tree using [FigTree](https://github.com/rambaut/figtree)
-<!-- - Results: 
-![](path/to/image)
--->
+1. Visualize the Newick tree using [`case04_hw02_tree.R`](case04_hw02_tree.R) (using the `ggtree` R package)
+    - Input: [`case04_hw02_tree.nwk`](case04_hw02_tree.nwk) and [`case04_hw02_origins.csv`](case04_hw02_origins.csv)
+	- Results: [`case04_hw02_tree.png`](case04_hw02_tree.png) and [`case04_hw02_tree.pdf`](case04_hw02_tree.pdf)
+	![](case04_hw02_tree.png)
