@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "Accession,Country" > case04_hw02_origins.csv
 while read acc
 do
 	if [[ "$acc" == "AF372422.1" ]]
