@@ -5,7 +5,7 @@ while read acc
 do
 	if [[ "$acc" == "AF372422.1" ]]
 	then
-		echo "$acc,unknown"
+		echo "$acc,Unknown"
 		continue
 	fi
 	read country
