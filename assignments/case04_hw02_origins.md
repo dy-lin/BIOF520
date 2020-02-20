@@ -82,5 +82,30 @@
 78|KU985088.1|Mexico
 79|KT381874.1|Rio de Janeiro, Brazil
 80|MN527290.1|Thailand
-
-
+81|MH027651.1|Cuiabá, Mato Grosso State, Brazil
+82|LC322992.1|Sabah, Borneo, Malaysia
+83|LC229347.1|Sabah, Borneo, Malaysia
+84|MF173410.1|India
+85|[LC218742.1](https://academic.oup.com/jtm/article/24/5/tax031/3820944)|Vietnam (to Japan)|
+86|MH306204.1|Mato Grosso, Brazil
+87|MH306203.1|Mato Grosso, Brazil
+88|MH306202.1|Mato Grosso, Brazil
+89|MH306201.1|Mato Grosso, Brazil
+90|MH306200.1|Mato Grosso, Brazil
+91|MH718923.1|Russia
+92|MH718922.1|Russia
+93|MH718921.1|Russia
+94|MH718920.1|Russia
+95|MH718919.1|Russia
+96|MH718918.1|Russia
+97|MH718917.1|Russia
+98|MH718916.1|Russia
+99|MH718915.1|Russia
+100|MH718914.1|Russia
+101|MH718913.1|Russia
+102|MH718912.1|Russia
+103|MH718911.1|Russia
+104|KY465607.1|Manta, Manabi, Ecuador
+105|KY005879.1|Portoviejo, Manabi, Ecuador
+106|AB908162.1|French Polynesia
+107|KY064008.1|Bangladesh
