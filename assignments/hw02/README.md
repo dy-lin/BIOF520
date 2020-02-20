@@ -11,6 +11,10 @@ Instructions for this assignment can be found [here](case04_hw02_instructions.pd
       (("Zika virus"[Organism] OR Zika virus[All Fields]) AND envelope[All Fields]) AND "Zika virus"[porgn] AND ("1"[SLEN] : "1000"[SLEN])
       ```
     - Results: 107 sequences in [`case04_hw02_genbank.fa`](case04_hw02_genbank.fa)
+        - Genbank file saved in [`case04_hw02_genbank.gb`](case04_hw02_genbank.gb)
+1. Find geographic origins of each sequence using [`case04_hw02_origins.sh`](case04_hw02_origins.sh)
+    - Input: [`case04_hw02_genbank.gb`](case04_hw02_genbank.gb)
+    - Results: 106/107 sequences have a country of origin specified in [`case04_hw02_origins.csv`](case04_hw02_origins.csv)
 1. Multiple sequence alignment with [MUSCLE](http://www.ebi.ac.uk/Tools/msa/muscle/)
     - Query: [`case04_hw02_genbank.fa`](case04_hw02_genbank.fa)
     - Results: [`case04_hw02_muscle.fa`](case04_hw02_muscle.fa)
