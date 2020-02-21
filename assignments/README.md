@@ -6,4 +6,4 @@
 
 #### Case 04 - HW02: Evolutionary Genetics, Phylogenetics, and Molecular Epidemiology
 * [Instructions](hw02/case04_hw02_instructions.pdf)
-<!--* [Submission](case04_hw02_submission.pdf)-->
+* [Submission](hw02/case04_hw02_submission.pdf)
