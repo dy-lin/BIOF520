@@ -27,6 +27,6 @@ Instructions for this assignment can be found [here](case04_hw02_instructions.pd
 	![](case04_hw02_tree.png)
 	![](case04_hw02_cladogram.png)
 1. Write the report:
-    > In one or two paragarphs, write a brief discussion of your results and explain how phylogenetics could be useful to discover the source of this pathogen. Considering other related potential causes of infection, why might the concept of "Original Antigenic Sin" be important in predicting the outcoem for a patient previously infected with the agent you identified in the workflow above?
+    > In one or two paragarphs, write a brief discussion of your results and explain how phylogenetics could be useful to discover the source of this pathogen. Considering other related potential causes of infection, why might the concept of "Original Antigenic Sin" be important in predicting the outcome for a patient previously infected with the agent you identified in the workflow above?
 
     * Results: [`case04_hw02_submission.pdf`](case04_hw02_submission.pdf)
