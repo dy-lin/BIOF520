@@ -5,7 +5,7 @@ while read acc
 do
 	if [[ "$acc" == "AF372422.1" ]]
 	then
-		echo "$acc,Unknown (top BLAST hit)"
+		echo "$acc,NA"
 		continue
 	fi
 	read country
