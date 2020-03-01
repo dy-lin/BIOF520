@@ -1,0 +1,28 @@
+ID,status,dateOfOnset,dateOfExposureStart,dateOfExposureEnd,incubation,source,hospWard,exposureHousehold,exposureSharedMeal,exposureDroplet,exposureSex,exposureFaeces,exposureBite,Age,Sex,Occupation
+Rat,Sick,21-Sep-17,21-Sep-17,21-Sep-17,,Rat,B,,,,,X,,1,F,Animal
+0,Sick,01-Oct-17,24-Sep-17,24-Sep-17,7 days,Rat,A,,,X,,X,X,33,F,Pet Store Owner
+1,Sick,06-Oct-17,29-Sep-17,29-Sep-17,7 days,Patient 0,B,X,X,,X,,,30,M,Day-Care Teacher
+2,Sick,08-Oct-17,01-Oct-17,01-Oct-17,7 days,Patient 0,B,,X,,,,X,45,M,Fishing Guide
+3,Sick,13-Oct-17,06-Oct-17,06-Oct-17,7 days,Patient 1,A,,,,,,X,3,M,Pre-schooler
+4,Sick,13-Oct-17,06-Oct-17,06-Oct-17,7 days,Patient 1,A,,,,,,X,0.3,F,Pre-schooler
+5,Sick,13-Oct-17,06-Oct-17,06-Oct-17,7 days,Patient 1,A,,,,,,X,4,F,Pre-schooler
+6,Sick,15-Oct-17,08-Oct-17,08-Oct-17,7 days,Patient 2,A,,X,,,,X,55,M,Oligarch
+7,Sick,15-Oct-17,08-Oct-17,08-Oct-17,7 days,Patient 2,A,,X,,,,X,52,M,Rock Bassist
+8,Sick,20-Oct-17,13-Oct-17,13-Oct-17,7 days,Patient 3,A,,X,X,,X,X,4,M,Pre-schooler
+9,Sick,20-Oct-17,13-Oct-17,13-Oct-17,7 days,Patient 3,A,,X,X,,,X,2,M,Pre-schooler
+10,Sick,20-Oct-17,13-Oct-17,13-Oct-17,7 days,Patient 3,A,X,X,X,,X,X,29,F,Hairdresser/Mom of patient 3
+11,Sick,20-Oct-17,13-Oct-17,13-Oct-17,7 days,Patient 5,A,,,X,,,X,47,M,Dentist
+12,Sick,21-Oct-17,14-Oct-17,14-Oct-17,7 days,Patient 7,B,,,,X,,,45,F,Rock Keyboard Player
+13,Sick,21-Oct-17,14-Oct-17,14-Oct-17,7 days,Patient 7,B,,,,X,,,38,F,Groupie
+14,Sick,22-Oct-17,15-Oct-17,15-Oct-17,,Patient 6,A,X,X,,,,X,34,M,Minion of Patient 6
+15,Exposed but well,,22-Sep-17,25-Sep-17,,Rat,C,,,X,,X,,18,F,Pet Store Worker
+16,Exposed but well,,03-Oct-17,03-Oct-17,,Patient 0,B,,,X,,,,28,F,Nurse
+17,Exposed but well,,06-Oct-17,06-Oct-17,,Patient 1,B,,X,X,,,,4,F,Pre-Schooler
+18,Exposed but well,,06-Oct-17,06-Oct-17,,Patient 1,C,,X,X,,,,3,M,Pre-Schooler
+19,Exposed but well,,08-Oct-17,08-Oct-17,,Patient 2,B,,X,,,,,25,F,Tour chef
+20,Exposed but well,,13-Oct-17,20-Oct-17,,Patient 3,D,X,X,X,,X,,31,M,Unemployed father of Pt 3
+21,Exposed but well,,13-Oct-17,20-Oct-17,,Patient 4,D,X,,X,,,,35,F,Mother of Patient 4
+22,Exposed but well,,13-Oct-17,20-Oct-17,,Patient 4,C,X,,X,,,,34,M,Father of Patient 4
+23,Exposed but well,,13-Oct-17,13-Oct-17,,Patient 5,A,,,X,,,,49,M,Dental Hygeinist
+24,Exposed but well,,14-Oct-17,14-Oct-17,,Patient 7,B,X,X,X,,X,,37,F,Guitarist/Room Mate
+25,Exposed but well,,20-Oct-17,20-Oct-17,,Patient 12,C,,,,X,,,35,M,Handyman
