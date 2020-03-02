@@ -5,6 +5,7 @@
 * [Ana Crisan's Lecture](Slides_AnaCrisan.pdf): Slides from Ana Crisan's lecture
 * [Zipeng Liu's Lecture](Slides_ZipengLiu.pdf): Slides from Zipeng Liu's lecture
 * [Zipeng Liu's Tool](http://www.cs.ubc.ca/labs/imager/tr/2019/adview/): Aggregated Dendrograms for Visual Comparison Between Many Phylogenetic Trees
+* [Example](https://peerj.com/articles/4218/): Evidence-based design and evaluation of a whole genome sequencing clinical report for the reference microbiology laboratory
 
 ## Data
 * [Zombie Outbreak Data](data/zombieOutbreak.csv): CSV file of the Zombie Outbreak
