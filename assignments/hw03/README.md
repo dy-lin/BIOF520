@@ -4,7 +4,7 @@
 * [Five Design Sheets Overview](Five_DesignSheets_Overview.pdf): Summary of the Five Design Sheets paper
 * [Ana Crisan's Lecture](Slides_AnaCrisan.pdf): Slides from Ana Crisan's lecture
 * [Zipeng Liu's Lecture](Slides_ZipengLiu.pdf): Slides from Zipeng Liu's lecture
-* [Zipeng Liu's Tool](http://www.cs.ubc.ca/labs/imager/tr/2019/adview/):Aggregated Dendrograms for Visual Comparison Between Many Phylogenetic Trees
+* [Zipeng Liu's Tool](http://www.cs.ubc.ca/labs/imager/tr/2019/adview/): Aggregated Dendrograms for Visual Comparison Between Many Phylogenetic Trees
 
 ## Data
 * [Zombie Outbreak Data](data/zombieOutbreak.csv): CSV file of the Zombie Outbreak
