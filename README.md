@@ -16,8 +16,8 @@ Jan22<br/>Jan27 | William Hsiao | Proline<br/>Tryptophan | [Microbiome](cases/ca
 Jan29<br/>Feb03 | Ryan Brinkman | Tryptophan<br/>Proline | [Standardization](cases/case03_RyanBrinkman.pdf) | GSC room 101 / GSC lunchroom 5th floor | NA
 Feb05<br/>Feb10 | Jeffrey Joy | Proline<br/>Tryptophan | [Evolutionary genetics and viruses](cases/case04_JeffreyJoy.pdf) | GSC room 101 / GSC lunchroom 5th floor | [Feb 24](assignments/hw02/case04_hw02_submission.pdf)
 Feb12<br/>Feb24 | Jessica Dennis | Tryptophan<br/>Proline | [Population health](cases/case05_JessicaDennis.pdf) | GSC room 101 / GSC lunchroom 5th floor | NA
-Feb26<br/>Mar02 | Zipeng Liu & Anamaria Crisan | Proline<br/>Tryptophan | [Visualization analysis and design](cases/case06_AnaCrisan_ZipengLiu.pdf) | GSC room 101 / GSC lunchroom 5th floor | Mar 12
-Mar04<br/>Mar09 | Anita Ho | Tryptophan<br/>Proline | Research ethics | GSC room 101 / GSC lunchroom 5th floor | NA
+Feb26<br/>Mar02 | Zipeng Liu & Anamaria Crisan | Proline<br/>Tryptophan | [Visualization analysis and design](cases/case06_AnaCrisan_ZipengLiu.pdf) | GSC room 101 / GSC lunchroom 5th floor | [Mar 12](assignments/hw03/case06_hw03_submission.pdf)
+Mar04<br/>Mar09 | Anita Ho | Tryptophan<br/>Proline | [Research ethics](cases/case07_AnitaHo.pdf) | GSC room 101 / GSC lunchroom 5th floor | NA
 Mar11<br/>Mar16 | Andrew Roth | Proline<br/>Tryptophan | Tracking clonal dynamics in cancer | GSC room 101 / GSC lunchroom 5th floor | Mar 26
 Mar18<br/>Mar23 | Tao Huan | Tryptophan<br/>Proline | Metabolomics | GSC room 101 / GSC lunchroom 5th floor | NA
 Mar25<br/>Mar30 | Denise Daley | Proline<br/>Tryptophan | Environment and gene interaction | GSC room 101 / GSC lunchroom 5th floor | NA

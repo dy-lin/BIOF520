@@ -10,4 +10,4 @@
 
 #### Case 06 - HW03: Identifying and Communicating the Source of the Zombie Outbreak
 * [Instructions](hw03/case06_hw03_instructions.md)
-<!--* [Submission](hw03/case06_hw03_submission.pdf)-->
+* [Submission](hw03/case06_hw03_submission.pdf)

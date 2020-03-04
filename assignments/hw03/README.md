@@ -1,4 +1,10 @@
 # Table of Contents
+
+## Documents
+* [Instructions](case06_hw03_instructions.md): Instructions for the assignment
+* [Submission](case06_hw03_submission.pdf): Submission for the assignment
+* [Five Design Sheets](case06_hw03_FDS.pdf): Five Design Sheets for the assignment
+
 ## Resources
 * [Five Design Sheets](Five_DesignSheets.pdf): Sketching designs using the Five Design-Sheet methodology
 * [Five Design Sheets Overview](Five_DesignSheets_Overview.pdf): Summary of the Five Design Sheets paper
