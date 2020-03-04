@@ -7,3 +7,7 @@
 #### Case 04 - HW02: Evolutionary Genetics, Phylogenetics, and Molecular Epidemiology
 * [Instructions](hw02/case04_hw02_instructions.pdf)
 * [Submission](hw02/case04_hw02_submission.pdf)
+
+#### Case 06 - HW03: Identifying and Communicating the Source of the Zombie Outbreak
+* [Instructions](hw03/case06_hw03_instructions.pdf)
+<!--* [Submission](hw03/case06_hw03_submission.pdf)-->
