@@ -1,5 +1,7 @@
 # Instructions
 
+Due: March 26, 2020
+
 Based on the discussion in class you will finish the experimental workflow for the case. You will create a one page figure illustrating workflow and any other relevant concepts. You will also include a brief written description of the workflow, no more than one page double spaced.
 
 Some relevant points the figure and write up should address:
