@@ -11,3 +11,7 @@
 #### Case 06 - HW03: Identifying and Communicating the Source of the Zombie Outbreak
 * [Instructions](hw03/case06_hw03_instructions.md)
 * [Submission](hw03/case06_hw03_submission.pdf)
+
+#### Case 08 - HW04: Tracking Clonal Dynamics in Cancer
+* [Instructions](hw04/case08_hw04_instructions.md)
+<!--* [Submission](hw04/case08_hw04_submission.pdf) -->
