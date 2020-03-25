@@ -11,4 +11,4 @@
 [07](case07_AnitaHo.pdf) | Research Ethics | Anita Ho
 [08](case08_AndrewRoth.pdf) | Tracking Clonal Dynamics in Cancer | Andrew Roth
 [09](case09_TaoHuan.pdf) | Metabolomics | Tao Huan 
-10 | Environment and Gene Interaction | Denise Daley
+[10](case10_DeniseDaley.pdf) | Environment and Gene Interaction | Denise Daley
